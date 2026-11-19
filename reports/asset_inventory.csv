@@ -1,0 +1,7 @@
+Asset,Type,IP Address,Purpose,Discovery Method
+nexora.test,Domain,192.168.56.10,Corporate domain,DNS
+www.nexora.test,Subdomain,192.168.56.10,Corporate website,DNS enumeration
+mail.nexora.test,Mail server,192.168.56.10,Email infrastructure,MX lookup
+hr.nexora.test,Subdomain,192.168.56.10,HR service,DNS enumeration
+vpn.nexora.test,Subdomain,192.168.56.10,VPN service,DNS enumeration
+portal.nexora.test,Subdomain,192.168.56.10,Employee portal,DNS enumeration

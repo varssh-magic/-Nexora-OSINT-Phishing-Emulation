@@ -1,0 +1,25 @@
+
+; <<>> DiG 9.20.30-1-Debian <<>> @127.0.0.1 nexora.test MX
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 18490
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 4c2cec4146d88698010000006af0c8aa258b184f54acea09 (good)
+;; QUESTION SECTION:
+;nexora.test.			IN	MX
+
+;; ANSWER SECTION:
+nexora.test.		86400	IN	MX	10 mail.nexora.test.
+
+;; ADDITIONAL SECTION:
+mail.nexora.test.	86400	IN	A	192.168.56.101
+
+;; Query time: 0 msec
+;; SERVER: 127.0.0.1#53(127.0.0.1) (UDP)
+;; WHEN: Sun Nov 08 14:08:26 EST 2026
+;; MSG SIZE  rcvd: 105
+

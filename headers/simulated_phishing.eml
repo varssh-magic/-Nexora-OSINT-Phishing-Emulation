@@ -1,0 +1,18 @@
+From: Nexora HR <hr@nexora.test>
+To: Priya Sharma <priya.sharma@nexora.test>
+Reply-To: training@example.invalid
+Return-Path: <bounce@example.invalid>
+Subject: Important: Employee Benefits Portal Update
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Authentication-Results: mx.nexora.test; spf=fail smtp.mailfrom=example.invalid; dmarc=fail header.from=nexora.test
+
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Nexora Employee Benefits Update</h2>
+<p>This is a controlled email-header investigation sample.</p>
+<p>No credentials are requested or collected.</p>
+<a href="http://127.0.0.1:8080/training_portal.html">Open training portal</a>
+</body>
+</html>

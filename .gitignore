@@ -1,0 +1,39 @@
+
+# Python virtual environments
+venv/
+.venv/
+env/
+mail-env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# SpiderFoot local data and configuration
+spiderfoot.db
+spiderfoot.log
+sfconfig.py
+
+# Secrets and environment variables
+.env
+.env.*
+*.pem
+*.key
+credentials.txt
+secrets.txt
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+.DS_Store
+
+# Packet captures and potentially sensitive raw data
+*.pcap
+*.pcapng
+
+# Editor and IDE files
+.vscode/
+.idea/
+

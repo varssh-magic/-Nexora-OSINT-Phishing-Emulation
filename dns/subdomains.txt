@@ -1,0 +1,10 @@
+www.nexora.test
+192.168.56.101
+mail.nexora.test
+192.168.56.101
+hr.nexora.test
+192.168.56.101
+vpn.nexora.test
+192.168.56.101
+portal.nexora.test
+192.168.56.101
